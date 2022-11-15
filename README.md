@@ -1,6 +1,4 @@
-# HackerRank SQL Solutions
-
-<a href="https://www.hackerrank.com/products/main/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank"></a>
+<h1><a href="https://www.hackerrank.com/products/main/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank" height="40" width="40"></a> HackerRank SQL Solutions </h1>
 
 If you're strugle in an question [HackerRank SQL](https://www.hackerrank.com/domains/sql/select) and want to understand its solution, feel free to use this file 😊
 
