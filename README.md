@@ -6,7 +6,7 @@ I use MySQL version to solve the challenges.
 
 * [Basic Select](https://github.com/gabrielcardosofts/hackerrank-sql/tree/main/basic-select)
 * [Advanced Select]()
-* [Aggregation]()
+* [Aggregation](https://github.com/gabrielcardosofts/hackerrank-sql/tree/main/aggregation)
 * [Basic Join]()
 * [Advanced Join]()
 * [Alternative Queries]()
