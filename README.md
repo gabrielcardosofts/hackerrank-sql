@@ -2,7 +2,7 @@
 
 I've been using [HackerRank](https://www.hackerrank.com/) to test my knowledge in programming skills. I truly recommend it!
 
-If you're struggle in any [HackerRank SQL](https://www.hackerrank.com/domains/sql/select) question and want to understand its solution, or you want to compare the solution with yours, feel free to use this file 😊
+If you're struggling in any [HackerRank SQL](https://www.hackerrank.com/domains/sql/select) question and want to understand its solution, or you want to compare the solution with yours, feel free to use this file 😊
 
 I use MySQL version to solve the challenges.
 
